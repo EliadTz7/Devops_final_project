@@ -7,7 +7,7 @@
 <title>Devops JSP file</title>
 </head>
 <body>
-<h1>Eliad and Orian jsp file</h1>
+<h1>jsp file</h1>
 <form action="guru_register" method="post">
 			<table style="with: 50%">
 				<tr>
