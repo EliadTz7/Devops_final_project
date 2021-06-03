@@ -4,10 +4,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Devops JSP file</title>
+<title>eliad and orianDevops JSP file</title>
 </head>
 <body>
-<h1>jsp file</h1>
+<h1>Eliad and orian jsp file</h1>
 <form action="guru_register" method="post">
 			<table style="with: 50%">
 				<tr>
